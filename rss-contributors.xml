@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 Contributor Feed]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 17:27:48 GMT</lastBuildDate><item><title><![CDATA[Meet the Maintainer: Ian Whitney]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Ian Whitney]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-ian-whitney</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-ian-whitney</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Wed, 28 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/4d40eb2ec567887432dc7cab5eee5af7/ian-whitney-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 Contributor Feed]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 18:06:50 GMT</lastBuildDate><item><title><![CDATA[Meet the Maintainer: Ian Whitney]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Ian Whitney]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-ian-whitney</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-ian-whitney</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Wed, 28 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/4d40eb2ec567887432dc7cab5eee5af7/ian-whitney-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./ian-whitney-meshery-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;;
@@ -172,7 +172,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 
 &lt;/MeetTheMaintainer&gt;
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Docker Model Runner: Engineering Summary & Future Horizons]]></title><link>https://layer5.io/blog/docker/docker-model-runner-engineering-summary-future-horizons</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-model-runner-engineering-summary-future-horizons</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Mon, 19 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/079679ec12e22e5eaead3990ab81da4f/hero-image.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Docker Model Runner: Engineering Summary & Future Horizons]]></title><link>https://layer5.io/blog/docker/docker-model-runner-engineering-summary-future-horizons</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-model-runner-engineering-summary-future-horizons</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Mon, 19 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/079679ec12e22e5eaead3990ab81da4f/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -218,7 +218,7 @@ Docker Model Runner is more than just a feature; it represents a significant ste
 The journey from Beta to a fully mature product will undoubtedly bring further refinements and capabilities. However, the foundational principles and architectural choices already evident in Docker Model Runner signal a bright future for local-first AI development, driven by the needs and workflows of engineers.  
 
 *This blog post series has been based on information available about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change as the product evolves.*
-&lt;/BlogWrapper&gt;     </content:encoded></item><item><title><![CDATA[Spring AI: Streamlining Local LLM Integration for Java Developers]]></title><link>https://layer5.io/blog/docker/spring-ai-streamlining-local-llm-integration-for-java-developers</link><guid isPermaLink="false">https://layer5.io/blog/docker/spring-ai-streamlining-local-llm-integration-for-java-developers</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 13 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/7a5be1548e7efed21a2ef4929e78a5ab/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;     </content:encoded></item><item><title><![CDATA[Spring AI: Streamlining Local LLM Integration for Java Developers]]></title><link>https://layer5.io/blog/docker/spring-ai-streamlining-local-llm-integration-for-java-developers</link><guid isPermaLink="false">https://layer5.io/blog/docker/spring-ai-streamlining-local-llm-integration-for-java-developers</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 13 May 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/7a5be1548e7efed21a2ef4929e78a5ab/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -309,7 +309,7 @@ For Java engineers, this means Docker Model Runner isn&apos;t just another tool;
 
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change. Configuration details for Spring AI may vary based on specific versions.*
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Docker Compose: Orchestrating Multi-Service AI Applications Locally]]></title><link>https://layer5.io/blog/docker/docker-compose-orchestrating-multi-service-ai-applications-locally</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-compose-orchestrating-multi-service-ai-applications-locally</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Wed, 23 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/97d66df31989169322ece96b70bfd7a8/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Docker Compose: Orchestrating Multi-Service AI Applications Locally]]></title><link>https://layer5.io/blog/docker/docker-compose-orchestrating-multi-service-ai-applications-locally</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-compose-orchestrating-multi-service-ai-applications-locally</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Wed, 23 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/97d66df31989169322ece96b70bfd7a8/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -380,7 +380,7 @@ Next up, we&apos;ll explore how Docker Model Runner specifically caters to Java 
 
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change.*
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Host-Native Execution & GPU Deep Dive]]></title><link>https://layer5.io/blog/docker/host-native-execution-gpu-deep-dive</link><guid isPermaLink="false">https://layer5.io/blog/docker/host-native-execution-gpu-deep-dive</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Mon, 14 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/a0d502a06407981844fc859ba51cbc91/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Host-Native Execution & GPU Deep Dive]]></title><link>https://layer5.io/blog/docker/host-native-execution-gpu-deep-dive</link><guid isPermaLink="false">https://layer5.io/blog/docker/host-native-execution-gpu-deep-dive</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Mon, 14 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/a0d502a06407981844fc859ba51cbc91/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -430,7 +430,7 @@ Understanding this performance architecture—host-native execution, direct GPU 
 In our next post, we&apos;ll explore the API architecture of Docker Model Runner, focusing on its OpenAI compatibility and the various ways you can connect your applications to the local inference engine.  
 
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change.*
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[API Architecture, OpenAI Compatibility, and Connection Strategies]]></title><link>https://layer5.io/blog/docker/api-architecture-openai-compatibility-and-connection-strategies</link><guid isPermaLink="false">https://layer5.io/blog/docker/api-architecture-openai-compatibility-and-connection-strategies</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 08 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/7ad71d9ddffb4f0135947f5b528e0c93/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[API Architecture, OpenAI Compatibility, and Connection Strategies]]></title><link>https://layer5.io/blog/docker/api-architecture-openai-compatibility-and-connection-strategies</link><guid isPermaLink="false">https://layer5.io/blog/docker/api-architecture-openai-compatibility-and-connection-strategies</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 08 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/7ad71d9ddffb4f0135947f5b528e0c93/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -480,7 +480,7 @@ In our next post, we&apos;ll explore how Docker Model Runner integrates with Doc
 
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change.*
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Taming the Wild West of AI Model Management]]></title><link>https://layer5.io/blog/docker/taming-the-wild-west-of-ai-model-management</link><guid isPermaLink="false">https://layer5.io/blog/docker/taming-the-wild-west-of-ai-model-management</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/ad894700277bdd8c181ccbffc7dc4e16/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Taming the Wild West of AI Model Management]]></title><link>https://layer5.io/blog/docker/taming-the-wild-west-of-ai-model-management</link><guid isPermaLink="false">https://layer5.io/blog/docker/taming-the-wild-west-of-ai-model-management</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/ad894700277bdd8c181ccbffc7dc4e16/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -535,7 +535,7 @@ By embracing OCI, Docker Model Runner isn&apos;t just offering a new command; it
 In our next post, we&apos;ll shift gears and look under the hood at Docker Model Runner&apos;s performance architecture, particularly its use of host-native execution and GPU acceleration.  
 
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change.*
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Docker Model Runner]]></title><link>https://layer5.io/blog/docker/docker-model-runner</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-model-runner</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Wed, 26 Mar 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/dfd3200061f7dd06b9c2ae3283e13437/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Docker Model Runner]]></title><link>https://layer5.io/blog/docker/docker-model-runner</link><guid isPermaLink="false">https://layer5.io/blog/docker/docker-model-runner</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Wed, 26 Mar 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/dfd3200061f7dd06b9c2ae3283e13437/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -577,7 +577,7 @@ Docker Model Runner, even in its Beta phase (introduced with Docker Desktop 4.40
 In our next post, we will delve into the technical specifics of how Docker Model Runner&apos;s use of **OCI artifacts is set to revolutionize AI model management**, bringing DevOps principles to your MLOps workflows.  
 *This blog post is based on information about Docker Model Runner, a Beta feature. Features, commands, and APIs are subject to change.*
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Supercharge Your Git Workflow with Powerful Aliases]]></title><description><![CDATA[Git command line aliases and git shortcuts]]></description><link>https://layer5.io/blog/engineering/supercharge-your-git-workflow-with-powerful-aliases</link><guid isPermaLink="false">https://layer5.io/blog/engineering/supercharge-your-git-workflow-with-powerful-aliases</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Fri, 24 Jan 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/566411427e09e80368249dd7537f1ba8/hero-image.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Supercharge Your Git Workflow with Powerful Aliases]]></title><description><![CDATA[Git command line aliases and git shortcuts]]></description><link>https://layer5.io/blog/engineering/supercharge-your-git-workflow-with-powerful-aliases</link><guid isPermaLink="false">https://layer5.io/blog/engineering/supercharge-your-git-workflow-with-powerful-aliases</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Fri, 24 Jan 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/566411427e09e80368249dd7537f1ba8/hero-image.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -699,7 +699,7 @@ By incorporating these Git aliases into your workflow, you can streamline your d
  
 **Happy Git-ing!**
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Yash Sharma]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Yash Sharma]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-yash-sharma</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-yash-sharma</guid><dc:creator><![CDATA[Hargun Kaur]]></dc:creator><pubDate>Thu, 31 Oct 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/22186effa82abcb1fc7f888151e9e429/yash-sharma-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Yash Sharma]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Yash Sharma]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-yash-sharma</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-yash-sharma</guid><dc:creator><![CDATA[Hargun Kaur]]></dc:creator><pubDate>Thu, 31 Oct 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/22186effa82abcb1fc7f888151e9e429/yash-sharma-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./yash-sharma-meshery-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;;
@@ -940,7 +940,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 
 &lt;/MeetTheMaintainer&gt;
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Aisuko Li]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Aisuko Li]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-aisuko-li</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-aisuko-li</guid><dc:creator><![CDATA[Anita Ihuman]]></dc:creator><pubDate>Thu, 26 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/efc06b9b581cfec422e3ea89fb87f7e3/aisuko-li-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Aisuko Li]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Aisuko Li]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-aisuko-li</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-aisuko-li</guid><dc:creator><![CDATA[Anita Ihuman]]></dc:creator><pubDate>Thu, 26 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/efc06b9b581cfec422e3ea89fb87f7e3/aisuko-li-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./aisuko-li-layer5-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;;
@@ -1204,7 +1204,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 
 &lt;/MeetTheMaintainer&gt;
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Hussaina Begum]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Hussaina Begum]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-hussaina-begum</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-hussaina-begum</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/f8cde22decf106caae36d310f02e1552/hussaina-begum-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Hussaina Begum]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Hussaina Begum]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-hussaina-begum</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-hussaina-begum</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/f8cde22decf106caae36d310f02e1552/hussaina-begum-meshery-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./hussaina-begum-meshery-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;;
@@ -1431,7 +1431,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 
 &lt;/MeetTheMaintainer&gt;
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Aadhitya Amarendiran]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Aadhitya Amarendiran]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-aadhitya-amarendiran</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-aadhitya-amarendiran</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/436e06d306ef7e35d44324c48612eebf/aadhitya-amarendiran-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Aadhitya Amarendiran]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Aadhitya Amarendiran]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-aadhitya-amarendiran</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-aadhitya-amarendiran</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sat, 07 Sep 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/436e06d306ef7e35d44324c48612eebf/aadhitya-amarendiran-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./aadhitya-amarendiran-layer5-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;;
@@ -1613,7 +1613,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 
 &lt;/MeetTheMaintainer&gt;
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Xin Huang]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Xin Huang]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-xin-huang</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-xin-huang</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sun, 30 Jun 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/f061d9779b8971811daa9135d76ca7be/xin-huang-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Meet the Maintainer: Xin Huang]]></title><description><![CDATA[Meet the Maintainer series with open source maintainer, Xin Huang]]></description><link>https://layer5.io/blog/open-source/meet-the-maintainer-xin-huang</link><guid isPermaLink="false">https://layer5.io/blog/open-source/meet-the-maintainer-xin-huang</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Sun, 30 Jun 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/f061d9779b8971811daa9135d76ca7be/xin-huang-layer5-maintainer.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import img from &quot;./xin-huang-layer5-maintainer.png&quot;;
 import { MeetTheMaintainer } from &quot;../../MeetTheMaintainer.style.js&quot;
@@ -1752,7 +1752,7 @@ import ForkLift from &quot;../../../../assets/images/app/hero/forklift.svg&quot;
 &lt;div class=&quot;note&quot;&gt;&lt;img src={ForkLift} height=&quot;100px&quot; /&gt;&lt;p&gt;The Meshery project moves at an impressive pace thanks to maintainers like Xin. Be like Xin. Join the &lt;a href=&quot;https://slack.layer5.io&quot;&gt;Layer5 Slack&lt;/a&gt; and say “hi&quot;.&lt;/p&gt;&lt;/div&gt;
 
 &lt;/MeetTheMaintainer&gt;
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Meshery's 5,000 Star Milestone]]></title><description><![CDATA[Celebrating Meshery's 5,000 GitHub Star Milestone]]></description><link>https://layer5.io/blog/announcements/mesherys-5000-star-milestone</link><guid isPermaLink="false">https://layer5.io/blog/announcements/mesherys-5000-star-milestone</guid><dc:creator><![CDATA[Sandra Ashipala]]></dc:creator><pubDate>Wed, 19 Jun 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/edf0277ea6903daba9480dabf3be6c9f/banner.jpeg" length="0" type="image/jpeg"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Meshery's 5,000 Star Milestone]]></title><description><![CDATA[Celebrating Meshery's 5,000 GitHub Star Milestone]]></description><link>https://layer5.io/blog/announcements/mesherys-5000-star-milestone</link><guid isPermaLink="false">https://layer5.io/blog/announcements/mesherys-5000-star-milestone</guid><dc:creator><![CDATA[Sandra Ashipala]]></dc:creator><pubDate>Wed, 19 Jun 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/edf0277ea6903daba9480dabf3be6c9f/banner.jpeg" length="0" type="image/jpeg"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 import STAR from &apos;./star-meshery.png&apos;;
@@ -1888,7 +1888,7 @@ Meshery has garnered significant attention within the open-source community and 
 &lt;/ul&gt;
 
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Load Generation and Load Balancing]]></title><description><![CDATA[Load Generation simulates demand on software, identifying capacity and bottlenecks and Load Balancing distributes workloads across resources, preventing overload and enhancing performance.]]></description><link>https://layer5.io/blog/kubernetes/load-generation-and-load-balancing</link><guid isPermaLink="false">https://layer5.io/blog/kubernetes/load-generation-and-load-balancing</guid><dc:creator><![CDATA[Chandravijay Rai]]></dc:creator><pubDate>Thu, 28 Mar 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/b647169a477091a8d377098205999776/MeshMap.svg" length="0" type="image/svg+xml"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Load Generation and Load Balancing]]></title><description><![CDATA[Load Generation simulates demand on software, identifying capacity and bottlenecks and Load Balancing distributes workloads across resources, preventing overload and enhancing performance.]]></description><link>https://layer5.io/blog/kubernetes/load-generation-and-load-balancing</link><guid isPermaLink="false">https://layer5.io/blog/kubernetes/load-generation-and-load-balancing</guid><dc:creator><![CDATA[Chandravijay Rai]]></dc:creator><pubDate>Thu, 28 Mar 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/b647169a477091a8d377098205999776/MeshMap.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import Layer5 from &quot;./Layer5.svg&quot;;
 
@@ -2017,7 +2017,7 @@ Consider factors like application needs, performance requirements, and scalabili
 Load balancing is a powerful technique that significantly impacts the performance, reliability, and scalability of applications. Whether distributing workloads based on static or dynamic algorithms, choosing the right load balancing strategy is crucial for delivering an exceptional user experience and optimizing resources. As technologies evolve, staying informed about the latest load balancing practices ensures continuous improvement in application delivery.
 
 &lt;/BlogWrapper&gt;
-</content:encoded></item><item><title><![CDATA[Demystifying Open Source]]></title><description><![CDATA[Demystifying Open Source]]></description><link>https://layer5.io/blog/open-source/demystifying-open-source</link><guid isPermaLink="false">https://layer5.io/blog/open-source/demystifying-open-source</guid><dc:creator><![CDATA[Sandra Ashipala]]></dc:creator><pubDate>Sat, 09 Mar 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/6c4c21c30d91ac195125f0e4d7055a18/banner.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Demystifying Open Source]]></title><description><![CDATA[Demystifying Open Source]]></description><link>https://layer5.io/blog/open-source/demystifying-open-source</link><guid isPermaLink="false">https://layer5.io/blog/open-source/demystifying-open-source</guid><dc:creator><![CDATA[Sandra Ashipala]]></dc:creator><pubDate>Sat, 09 Mar 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/6c4c21c30d91ac195125f0e4d7055a18/banner.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import FIVE from &apos;./meshery-skateboard.png&apos;;
 import MESHERY from &apos;./meshery-issues.png&apos;;
@@ -2105,7 +2105,7 @@ Start small by identifying issues labeled &quot;good-first-issues&quot; or bugs 
 &lt;p&gt;&lt;a href=&quot;https://slack.layer5.io/&quot;&gt;Layer5 Slack Community&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/meshery/meshery&quot;&gt;Meshery repo&lt;/a&gt;&lt;/p&gt;
 &lt;/BlogWrapper&gt; 
-</content:encoded></item><item><title><![CDATA[Making Container Registries a home for Meshery Designs]]></title><description><![CDATA[The adoption of OCI format by container registries and its integration within Meshery's design pattern management brings numerous benefits to the world of collaborative application infrastructure management.]]></description><link>https://layer5.io/blog/meshery/making-container-registries-a-home-for-meshery-designs</link><guid isPermaLink="false">https://layer5.io/blog/meshery/making-container-registries-a-home-for-meshery-designs</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Fri, 23 Feb 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/e8b45c76653bb060564418fca6d0714d/oci-images-meshery.png" length="0" type="image/png"/><content:encoded>
+</content:encoded></item><item><title><![CDATA[Making Container Registries a home for Meshery Designs]]></title><description><![CDATA[The adoption of OCI format by container registries and its integration within Meshery's design pattern management brings numerous benefits to the world of collaborative application infrastructure management.]]></description><link>https://layer5.io/blog/meshery/making-container-registries-a-home-for-meshery-designs</link><guid isPermaLink="false">https://layer5.io/blog/meshery/making-container-registries-a-home-for-meshery-designs</guid><dc:creator><![CDATA[Lee Calcote]]></dc:creator><pubDate>Fri, 23 Feb 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/e8b45c76653bb060564418fca6d0714d/oci-images-meshery.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 import Button from &quot;../../../../reusecore/Button&quot;;
@@ -2180,7 +2180,7 @@ ahead of the curve and leverage the latest advancements. Learn about &lt;a href=
 
 
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[What is Platform Engineering?]]></title><description><![CDATA[What is Platform Engineering? What is an internal developer platform? How Meshery is a self-service, extensible engineering platform.]]></description><link>https://layer5.io/blog/platform-engineering/what-is-platform-engineering</link><guid isPermaLink="false">https://layer5.io/blog/platform-engineering/what-is-platform-engineering</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Thu, 22 Feb 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/dbc8dda85829b4d0d1f1c0a546c5e6d2/platform-engineering-hero.png" length="0" type="image/png"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[What is Platform Engineering?]]></title><description><![CDATA[What is Platform Engineering? What is an internal developer platform? How Meshery is a self-service, extensible engineering platform.]]></description><link>https://layer5.io/blog/platform-engineering/what-is-platform-engineering</link><guid isPermaLink="false">https://layer5.io/blog/platform-engineering/what-is-platform-engineering</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Thu, 22 Feb 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/dbc8dda85829b4d0d1f1c0a546c5e6d2/platform-engineering-hero.png" length="0" type="image/png"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 import Button from &quot;../../../../reusecore/Button&quot;;
@@ -2318,7 +2318,7 @@ Platform engineering is a dynamic and ever-evolving field, driven by the rapid a
 
 In summary, platform engineering is the backbone of modern-day digital products and services. It empowers organizations to build, operate, and maintain robust platforms that can support their business objectives, enhance customer experiences, and drive growth. By understanding the fundamentals, embracing best practices, and staying abreast of emerging trends, organizations can leverage platform engineering to unlock their full potential in an increasingly digital world.
 
-&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Contributing to Layer5: A Designer’s Journey]]></title><description><![CDATA[Insights from my experience contributing to Layer5 as a design intern]]></description><link>https://layer5.io/blog/community/contributing-to-layer5-a-designers-journey</link><guid isPermaLink="false">https://layer5.io/blog/community/contributing-to-layer5-a-designers-journey</guid><dc:creator><![CDATA[Victoria Nduka]]></dc:creator><pubDate>Sat, 06 Jan 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/328bfd667d5e542923745ab420e81700/header-image.svg" length="0" type="image/svg+xml"/><content:encoded>
+&lt;/BlogWrapper&gt;</content:encoded></item><item><title><![CDATA[Contributing to Layer5: A Designer’s Journey]]></title><description><![CDATA[Insights from my experience contributing to Layer5 as a design intern]]></description><link>https://layer5.io/blog/community/contributing-to-layer5-a-designers-journey</link><guid isPermaLink="false">https://layer5.io/blog/community/contributing-to-layer5-a-designers-journey</guid><dc:creator><![CDATA[Victoria Nduka]]></dc:creator><pubDate>Sat, 06 Jan 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/328bfd667d5e542923745ab420e81700/header-image.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { BlogWrapper } from &quot;../../Blog.style.js&quot;;
 
 &lt;BlogWrapper&gt;

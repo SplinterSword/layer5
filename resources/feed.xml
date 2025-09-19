@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 Resources]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 17:27:48 GMT</lastBuildDate><item><title><![CDATA[Layer5 Academy vs Moocit]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 Resources]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 18:06:50 GMT</lastBuildDate><item><title><![CDATA[Layer5 Academy vs Moocit]]></title><description><![CDATA[
 import { ResourcesWrapper } from "../../Resources.style.js";
 
 
@@ -80,7 +80,7 @@ While Moocit lacks content attribution and seamless orchestration with hands-on 
 
 </div>
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/academy/layer5-academy-vs-moocit</link><guid isPermaLink="false">https://layer5.io/resources/academy/layer5-academy-vs-moocit</guid><pubDate>Sun, 17 Aug 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/c78e99b249ac1d7cd5251ac9aea491f6/academy.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/academy/layer5-academy-vs-moocit</link><guid isPermaLink="false">https://layer5.io/resources/academy/layer5-academy-vs-moocit</guid><pubDate>Sun, 17 Aug 2025 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/c78e99b249ac1d7cd5251ac9aea491f6/academy.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 
 
@@ -296,7 +296,7 @@ Overall, HPE's use of Meshery and the Docker Extension for Meshery demonstrates 
 </p>
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/case-study/hpes-adoption-of-meshery-and-kanvas</link><guid isPermaLink="false">https://layer5.io/resources/case-study/hpes-adoption-of-meshery-and-kanvas</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Fri, 16 Jun 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/91d038ef73208e4f202eecb42cb08c1f/meshery-and-hpe.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/case-study/hpes-adoption-of-meshery-and-kanvas</link><guid isPermaLink="false">https://layer5.io/resources/case-study/hpes-adoption-of-meshery-and-kanvas</guid><dc:creator><![CDATA[Layer5 Team]]></dc:creator><pubDate>Fri, 16 Jun 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/91d038ef73208e4f202eecb42cb08c1f/meshery-and-hpe.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import { HPEfacts, HPEintro, HPEbenefits } from &quot;./hpe.style.js&quot;;
 import Blockquote from &quot;../../../../reusecore/Blockquote&quot;;
@@ -748,7 +748,7 @@ resources.
     </ul>
 </div>
 
-</ResourcesWrapper>]]></description><link>https://layer5.io/resources/docker/configuring-highly-available-docker-swarm</link><guid isPermaLink="false">https://layer5.io/resources/docker/configuring-highly-available-docker-swarm</guid><pubDate>Wed, 17 May 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/5b72df1802df0608ac6ee6e6bff70c9d/docker-swarm.webp" length="0" type="image/webp"/><content:encoded>
+</ResourcesWrapper>]]></description><link>https://layer5.io/resources/docker/configuring-highly-available-docker-swarm</link><guid isPermaLink="false">https://layer5.io/resources/docker/configuring-highly-available-docker-swarm</guid><pubDate>Wed, 17 May 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/5b72df1802df0608ac6ee6e6bff70c9d/docker-swarm.webp" length="0" type="image/webp"/><content:encoded>
 import {ResourcesWrapper} from &quot;../../Resources.style.js&quot;;
 import {Link} from &quot;gatsby&quot;
 import DockerExtensionCTA from &quot;../../../../sections/Docker-Meshery/docker-extension-CTA.js&quot;
@@ -1102,7 +1102,7 @@ import Button from "../../../../reusecore/Button";
 </p>
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/cloud-native/terraform-with-meshery</link><guid isPermaLink="false">https://layer5.io/resources/cloud-native/terraform-with-meshery</guid><dc:creator><![CDATA[Gaurav Chadha]]></dc:creator><pubDate>Wed, 21 Dec 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/895ec8ea35cf68449389f73e4285cb39/terraform-color.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/cloud-native/terraform-with-meshery</link><guid isPermaLink="false">https://layer5.io/resources/cloud-native/terraform-with-meshery</guid><dc:creator><![CDATA[Gaurav Chadha]]></dc:creator><pubDate>Wed, 21 Dec 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/895ec8ea35cf68449389f73e4285cb39/terraform-color.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 import Button from &quot;../../../../reusecore/Button&quot;;
@@ -1262,7 +1262,7 @@ import ClusterImg from "./multi-cluster-kubernetes-management-with-meshery.webp"
   without manual management tasks! </p>
  
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/kubernetes/management-of-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/management-of-kubernetes</guid><dc:creator><![CDATA[Tolulope Ola-David]]></dc:creator><pubDate>Sun, 20 Nov 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/9287b4a708bb510f64057ea305498b77/kubernetes-logo.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../../Resources.style.js&quot;;
+]]></description><link>https://layer5.io/resources/kubernetes/management-of-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/management-of-kubernetes</guid><dc:creator><![CDATA[Tolulope Ola-David]]></dc:creator><pubDate>Sun, 20 Nov 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/9287b4a708bb510f64057ea305498b77/kubernetes-logo.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../../Resources.style.js&quot;;
 import picture1 from &quot;./meshery-core-architecture.webp&quot;; 
 import picture2 from &quot;./settings.webp&quot;; 
 import picture3 from &quot;./context-switcher.webp&quot;; 
@@ -1554,7 +1554,7 @@ One downside to using containers is that they can't easily be moved between host
   
   
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/kubernetes/getting-started-with-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/getting-started-with-kubernetes</guid><dc:creator><![CDATA[Tolulope Ola-David]]></dc:creator><pubDate>Tue, 01 Nov 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/b1a646c34f1a9ed49dcf37dd7b9b4662/kubernetes-logo.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../../Resources.style.js&quot;;
+]]></description><link>https://layer5.io/resources/kubernetes/getting-started-with-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/getting-started-with-kubernetes</guid><dc:creator><![CDATA[Tolulope Ola-David]]></dc:creator><pubDate>Tue, 01 Nov 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/b1a646c34f1a9ed49dcf37dd7b9b4662/kubernetes-logo.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../../Resources.style.js&quot;;
 import picture1 from &quot;./Picture1.webp&quot;;
 import ClusterImg from &quot;./multi-cluster-kubernetes-management-with-meshery.webp&quot;;
 import KanvasDesigner from &quot;./KanvasDesigner.webp&quot;
@@ -1796,7 +1796,7 @@ import arch from "./arch.svg";
   <p> The security architecture used by Istio is built on security-by-default, and it aims to provide in-depth defense so you may deploy security-conscious apps even across networks with a low level of trust. </p>
   
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/service-mesh/service-mesh-istio</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/service-mesh-istio</guid><dc:creator><![CDATA[Deepesha Burse]]></dc:creator><pubDate>Tue, 30 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
+]]></description><link>https://layer5.io/resources/service-mesh/service-mesh-istio</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/service-mesh-istio</guid><dc:creator><![CDATA[Deepesha Burse]]></dc:creator><pubDate>Tue, 30 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import serviceMesh from &quot;./service-mesh.svg&quot;;
 import arch from &quot;./arch.svg&quot;;
 
@@ -1904,7 +1904,7 @@ However, DevOps teams from many industries frequently struggle to identify the r
 <img src={DevOpsAdoption} alt="Right metrics for adopting DevOps" />
 </Link>
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/devops/devops-adoption-identifying-the-right-metrics</link><guid isPermaLink="false">https://layer5.io/resources/devops/devops-adoption-identifying-the-right-metrics</guid><pubDate>Mon, 22 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/eba4e5898081df468c1c4288ce73623d/devops-adoption.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/resources/devops/devops-adoption-identifying-the-right-metrics</link><guid isPermaLink="false">https://layer5.io/resources/devops/devops-adoption-identifying-the-right-metrics</guid><pubDate>Mon, 22 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/eba4e5898081df468c1c4288ce73623d/devops-adoption.webp" length="0" type="image/webp"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import DevOps from &quot;./devops-adoption-choosing-the-right-metrics.pdf&quot;;
@@ -2015,7 +2015,7 @@ import { ResourcesWrapper } from "../../Resources.style.js";
    </ol>
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/cloud-native/what-is-gitops</link><guid isPermaLink="false">https://layer5.io/resources/cloud-native/what-is-gitops</guid><pubDate>Mon, 15 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/a8d747801f0e266dbc9bb2b192cd3dc1/github-dark.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/cloud-native/what-is-gitops</link><guid isPermaLink="false">https://layer5.io/resources/cloud-native/what-is-gitops</guid><pubDate>Mon, 15 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/a8d747801f0e266dbc9bb2b192cd3dc1/github-dark.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 
 &lt;ResourcesWrapper&gt;
@@ -2175,7 +2175,7 @@ import proxy from "./service-proxy-architecture.webp";
   </p>
   
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/service-mesh/service-mesh-consul</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/service-mesh-consul</guid><dc:creator><![CDATA[Deepesha Burse]]></dc:creator><pubDate>Thu, 04 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/ed21c2c53f2c64e86b016cfdfe7018ae/consul.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
+]]></description><link>https://layer5.io/resources/service-mesh/service-mesh-consul</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/service-mesh-consul</guid><dc:creator><![CDATA[Deepesha Burse]]></dc:creator><pubDate>Thu, 04 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/ed21c2c53f2c64e86b016cfdfe7018ae/consul.svg" length="0" type="image/svg+xml"/><content:encoded>import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import serviceMesh from &quot;./consul-service-mesh.webp&quot;;
 import agent from &quot;./consul-agent-architecture.webp&quot;;
 import datacenter from &quot;./datacenter-architecture.webp&quot;;
@@ -2417,7 +2417,7 @@ import { ResourcesWrapper } from "../../Resources.style.js";
 </p>
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/kubernetes/managing-containers</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/managing-containers</guid><pubDate>Tue, 05 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/70f4c7f444e8b3494ddc0fb955f86d40/docker.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/kubernetes/managing-containers</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/managing-containers</guid><pubDate>Tue, 05 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/70f4c7f444e8b3494ddc0fb955f86d40/docker.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 
@@ -2651,7 +2651,7 @@ kubectl config set-context $(kubectl config current-context) --namespace=mynames
 ```
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/kubernetes/kubernetes-architecture-101</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/kubernetes-architecture-101</guid><pubDate>Mon, 04 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/9287b4a708bb510f64057ea305498b77/kubernetes.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/kubernetes/kubernetes-architecture-101</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/kubernetes-architecture-101</guid><pubDate>Mon, 04 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/9287b4a708bb510f64057ea305498b77/kubernetes.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import ArchDiagram from &quot;./kubernetes-highlevel-architecture.webp&quot;;
 import { ResourcesWrapper } from &quot;../../../Resources.style.js&quot;;
@@ -2860,7 +2860,7 @@ The complexity of Kubernetes environments does present challenges, but setting c
 Finally, multi-cluster deployments are a good choice for organizations that are building highly distributed systems, with geographic and regulatory control in check to help scale workloads beyond the limits of single clusters. Multi-cluster deployment and management is useful for minimizing exposure of production services, preventing access to sensitive data in environments like development and testing. Organizations are now opting to deploy their more critical workloads on separate multiple clusters from their less critical ones.
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/kubernetes/what-is-multi-cluster-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/what-is-multi-cluster-kubernetes</guid><pubDate>Mon, 04 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/9287b4a708bb510f64057ea305498b77/kubernetes.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/kubernetes/what-is-multi-cluster-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/kubernetes/what-is-multi-cluster-kubernetes</guid><pubDate>Mon, 04 Jul 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/9287b4a708bb510f64057ea305498b77/kubernetes.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
@@ -3008,7 +3008,7 @@ TechStrong TV hosts a variety of live conversations and panel discussions with w
  <h3>Check out the TechStrong TV Interview with Layer5!</h3>
  </Button>
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/interview/techstrong-tv-interview</link><guid isPermaLink="false">https://layer5.io/resources/interview/techstrong-tv-interview</guid><pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/25aeb82dc80044f21493d0295ca3b84b/techstrong.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/resources/interview/techstrong-tv-interview</link><guid isPermaLink="false">https://layer5.io/resources/interview/techstrong-tv-interview</guid><pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/25aeb82dc80044f21493d0295ca3b84b/techstrong.webp" length="0" type="image/webp"/><content:encoded>
 
 import { ResourcesWrapper } from &quot;../Resources.style.js&quot;;
 import Button from &quot;../../../reusecore/Button&quot;;
@@ -3158,7 +3158,7 @@ spec:
 </div>
 
 </ResourcesWrapper>
-]]></description><link>https://layer5.io/resources/service-mesh/istio-virtual-service</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-virtual-service</guid><pubDate>Wed, 15 Jun 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/service-mesh/istio-virtual-service</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-virtual-service</guid><pubDate>Wed, 15 Jun 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 
@@ -3378,7 +3378,7 @@ spec:
 </ul>
 
 
-</ResourcesWrapper>]]></description><link>https://layer5.io/resources/service-mesh/istio-authorization-policy</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-authorization-policy</guid><pubDate>Tue, 31 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>
+</ResourcesWrapper>]]></description><link>https://layer5.io/resources/service-mesh/istio-authorization-policy</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-authorization-policy</guid><pubDate>Tue, 31 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/731763d720780a49c2ffdfede8c28f4b/istio.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import istiosecurityarch from &apos;./istio-securityarch.svg&apos;
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
@@ -3693,7 +3693,7 @@ disable access log.\naccessLogFile: \"/dev/stdout\"\n\n# If accessLogEncoding
 
 ```
 
-</ResourcesWrapper>]]></description><link>https://layer5.io/resources/service-mesh/istio-ingress-gateway-in-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-ingress-gateway-in-kubernetes</guid><pubDate>Thu, 31 Mar 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/eec5644b77e71f1ff68a36b674aea59c/Istio Ingress Gateway.webp" length="0" type="image/webp"/><content:encoded>
+</ResourcesWrapper>]]></description><link>https://layer5.io/resources/service-mesh/istio-ingress-gateway-in-kubernetes</link><guid isPermaLink="false">https://layer5.io/resources/service-mesh/istio-ingress-gateway-in-kubernetes</guid><pubDate>Thu, 31 Mar 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/eec5644b77e71f1ff68a36b674aea59c/Istio Ingress Gateway.webp" length="0" type="image/webp"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import { ResourcesWrapper } from &quot;../../Resources.style.js&quot;;
 import Working from &quot;./Istio Ingress Gateway.webp&quot;;
@@ -3940,7 +3940,7 @@ Let’s learn how to manage service meshes with confidence with the extensible s
 <div class="iframe-container">
 <iframe width="460" height="215" src="https://www.youtube.com/embed/mU8qHUGYsk8" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-</ResourcesWrapper>]]></description><link>https://layer5.io/resources/meshery/an-introduction-to-meshery-webinar-on-demand</link><guid isPermaLink="false">https://layer5.io/resources/meshery/an-introduction-to-meshery-webinar-on-demand</guid><pubDate>Sat, 06 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/2f4a78ada287ae5dcc2e75fad653f671/meshery-logo-light-text.svg" length="0" type="image/svg+xml"/><content:encoded>
+</ResourcesWrapper>]]></description><link>https://layer5.io/resources/meshery/an-introduction-to-meshery-webinar-on-demand</link><guid isPermaLink="false">https://layer5.io/resources/meshery/an-introduction-to-meshery-webinar-on-demand</guid><pubDate>Sat, 06 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/2f4a78ada287ae5dcc2e75fad653f671/meshery-logo-light-text.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { Link } from &quot;gatsby&quot;;
 import { ResourcesWrapper } from &quot;../Resources.style.js&quot;;
 
@@ -3966,7 +3966,7 @@ import FAQ from "../../../sections/General/Faq";
   </div>
 </ResourcesWrapper>
 ;
-]]></description><link>https://layer5.io/resources/faq/service-mesh-faqs</link><guid isPermaLink="false">https://layer5.io/resources/faq/service-mesh-faqs</guid><pubDate>Thu, 04 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/cb310234b6631abcabb632a85974a3dd/service-mesh.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/resources/faq/service-mesh-faqs</link><guid isPermaLink="false">https://layer5.io/resources/faq/service-mesh-faqs</guid><pubDate>Thu, 04 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/cb310234b6631abcabb632a85974a3dd/service-mesh.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { ResourcesWrapper } from &quot;../Resources.style.js&quot;;
 import FAQ from &quot;../../../sections/General/Faq&quot;;
 
@@ -3986,7 +3986,7 @@ import FAQ from "../../../sections/General/Faq";
   </div>
 </ResourcesWrapper>
 ;
-]]></description><link>https://layer5.io/resources/faq/meshery-faqs</link><guid isPermaLink="false">https://layer5.io/resources/faq/meshery-faqs</guid><pubDate>Tue, 02 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/2db8d89cdff9c95760d3235b380b39ea/meshery-logo-dark-text.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/resources/faq/meshery-faqs</link><guid isPermaLink="false">https://layer5.io/resources/faq/meshery-faqs</guid><pubDate>Tue, 02 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/2db8d89cdff9c95760d3235b380b39ea/meshery-logo-dark-text.webp" length="0" type="image/webp"/><content:encoded>
 import { ResourcesWrapper } from &quot;../Resources.style.js&quot;;
 import FAQ from &quot;../../../sections/General/Faq&quot;;
 

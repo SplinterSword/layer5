@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 News]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 17:27:48 GMT</lastBuildDate><item><title><![CDATA[Layer5 Launches Kanvas: A Collaborative Platform for Cloud Native Infrastructure]]></title><description><![CDATA[import { Link } from "gatsby";
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 News]]></title><description><![CDATA[Expect more from your infrastructure. Cloud native, open source software for your cloud native infrastructure and applications. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidently run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Sep 2025 18:06:50 GMT</lastBuildDate><item><title><![CDATA[Layer5 Launches Kanvas: A Collaborative Platform for Cloud Native Infrastructure]]></title><description><![CDATA[import { Link } from "gatsby";
 import Kanvas from "./kanvas-icon-color.svg";
 import KanvasScreenshot from "./layer5-kanvas-designer.webp";
 import { NewsWrapper } from "../../News.style.js";
@@ -96,7 +96,7 @@ Kanvas is a web-based collaboration tool that allows you to create, review, and 
 
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/layer5-launches-kanvas-a-collaborative-platform-for-cloud-native-infrastructure</link><guid isPermaLink="false">https://layer5.io/company/news/layer5-launches-kanvas-a-collaborative-platform-for-cloud-native-infrastructure</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Thu, 14 Nov 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/d183a1a25111a497fe92979cfea33f09/kanvas-stacked-color.svg" length="0" type="image/svg+xml"/><content:encoded>import { Link } from &quot;gatsby&quot;;
+]]></description><link>https://layer5.io/company/news/layer5-launches-kanvas-a-collaborative-platform-for-cloud-native-infrastructure</link><guid isPermaLink="false">https://layer5.io/company/news/layer5-launches-kanvas-a-collaborative-platform-for-cloud-native-infrastructure</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Thu, 14 Nov 2024 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/d183a1a25111a497fe92979cfea33f09/kanvas-stacked-color.svg" length="0" type="image/svg+xml"/><content:encoded>import { Link } from &quot;gatsby&quot;;
 import Kanvas from &quot;./kanvas-icon-color.svg&quot;;
 import KanvasScreenshot from &quot;./layer5-kanvas-designer.webp&quot;;
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
@@ -221,7 +221,7 @@ Sidecar containers also get a major boost. <Link to="/community/members/lee-calc
 
 </div>
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/how-kubernetes-129-improves-open-source-cloud-native-production-readiness</link><guid isPermaLink="false">https://layer5.io/company/news/how-kubernetes-129-improves-open-source-cloud-native-production-readiness</guid><dc:creator><![CDATA[SDxCentral]]></dc:creator><pubDate>Tue, 12 Dec 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/93e14b4ec9a424898cd9cfea9fe4c089/kubernetes-1-29.jpg" length="0" type="image/jpeg"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/how-kubernetes-129-improves-open-source-cloud-native-production-readiness</link><guid isPermaLink="false">https://layer5.io/company/news/how-kubernetes-129-improves-open-source-cloud-native-production-readiness</guid><dc:creator><![CDATA[SDxCentral]]></dc:creator><pubDate>Tue, 12 Dec 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/93e14b4ec9a424898cd9cfea9fe4c089/kubernetes-1-29.jpg" length="0" type="image/jpeg"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -290,7 +290,7 @@ Angell said Red Hat is particularly interested in the new node system memory swa
 “As Kubernetes continues to mature as a platform with release 1.28, we’re very happy to see a number of new features and tweaks that further support production stability and consistency,” Angell said. “Large and complicated jobs can now fail faster and more accurately which, while it sounds strange, contributes to better overall performance of Kubernetes in production.”
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/kubernetes-128-improves-open-source-cloud-native-compute-and-networking</link><guid isPermaLink="false">https://layer5.io/company/news/kubernetes-128-improves-open-source-cloud-native-compute-and-networking</guid><dc:creator><![CDATA[SDxCentral]]></dc:creator><pubDate>Tue, 15 Aug 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/3eb21de35f0cfc76476ef06c71988d63/kubernetes-1.28-improves-open-source-cloud-native-compute-and-networking.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/kubernetes-128-improves-open-source-cloud-native-compute-and-networking</link><guid isPermaLink="false">https://layer5.io/company/news/kubernetes-128-improves-open-source-cloud-native-compute-and-networking</guid><dc:creator><![CDATA[SDxCentral]]></dc:creator><pubDate>Tue, 15 Aug 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/3eb21de35f0cfc76476ef06c71988d63/kubernetes-1.28-improves-open-source-cloud-native-compute-and-networking.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -350,7 +350,7 @@ Layer5 is featured as one of the most innovative cloud management companies by B
 Learn more about <Link to="/about">Layer5</Link>.
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/the-most-innovative-cloud-management-companies</link><guid isPermaLink="false">https://layer5.io/company/news/the-most-innovative-cloud-management-companies</guid><dc:creator><![CDATA[Best Startup Texas]]></dc:creator><pubDate>Tue, 10 Jan 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/bc8c3bab97b6d1c1577838cfae767899/best-startup-texas.jpeg" length="0" type="image/jpeg"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/the-most-innovative-cloud-management-companies</link><guid isPermaLink="false">https://layer5.io/company/news/the-most-innovative-cloud-management-companies</guid><dc:creator><![CDATA[Best Startup Texas]]></dc:creator><pubDate>Tue, 10 Jan 2023 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/bc8c3bab97b6d1c1577838cfae767899/best-startup-texas.jpeg" length="0" type="image/jpeg"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -466,7 +466,7 @@ It should also be mentioned that tools change from time to time. As such, you ca
 </div>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/the-ultimate-list-of-open-source-cloud-native-tools</link><guid isPermaLink="false">https://layer5.io/company/news/the-ultimate-list-of-open-source-cloud-native-tools</guid><dc:creator><![CDATA[Bill Doerrfeld]]></dc:creator><pubDate>Sun, 28 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/d933bb2908d2076307a5899a5cb48295/tools.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/the-ultimate-list-of-open-source-cloud-native-tools</link><guid isPermaLink="false">https://layer5.io/company/news/the-ultimate-list-of-open-source-cloud-native-tools</guid><dc:creator><![CDATA[Bill Doerrfeld]]></dc:creator><pubDate>Sun, 28 Aug 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/d933bb2908d2076307a5899a5cb48295/tools.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -602,7 +602,7 @@ The need to better understand the performance of service meshes was further unde
 </div>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance</link><guid isPermaLink="false">https://layer5.io/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance</guid><dc:creator><![CDATA[ITPro Today]]></dc:creator><pubDate>Fri, 20 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/49cbc7ef20d9383088e20f773af6a13e/it-pro.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance</link><guid isPermaLink="false">https://layer5.io/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance</guid><dc:creator><![CDATA[ITPro Today]]></dc:creator><pubDate>Fri, 20 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/49cbc7ef20d9383088e20f773af6a13e/it-pro.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -746,7 +746,7 @@ Layer5 offers cloud native application management by harnessing the unique posit
 Hosted within the CNCF, <Link to="/projects/cloud-native-performance">Service Mesh Performance</Link> is a vendor-neutral cloud native performance measurement standard. Based on SMP, MeshMark provides a universal performance index to gauge your cloud native infrastructure’s efficiency and value. Visit <a href="https://smp-spec.io/">smp-spec.io</a></p>
 
 
-</NewsWrapper>]]></description><link>https://layer5.io/company/news/meshmark-the-cloud-native-value-measurement</link><guid isPermaLink="false">https://layer5.io/company/news/meshmark-the-cloud-native-value-measurement</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Mon, 16 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/404433926584e1d2b42f2d51f0540254/meshmark-dark-full.webp" length="0" type="image/webp"/><content:encoded>import { Link } from &quot;gatsby&quot;;
+</NewsWrapper>]]></description><link>https://layer5.io/company/news/meshmark-the-cloud-native-value-measurement</link><guid isPermaLink="false">https://layer5.io/company/news/meshmark-the-cloud-native-value-measurement</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Mon, 16 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/404433926584e1d2b42f2d51f0540254/meshmark-dark-full.webp" length="0" type="image/webp"/><content:encoded>import { Link } from &quot;gatsby&quot;;
 import Formula from &quot;./MeshMark-Formula.webp&quot;;
 import MeshMapMeshmark from &quot;./meshmark-score.webp&quot;;
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
@@ -930,7 +930,7 @@ Hewlett Packard Enterprise (NYSE: HPE) is the global edge-to-cloud company that 
 
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/layer5-joins-docker-extension-program-bringing-kubernetes-and-kubernetes-management-to-docker-with-meshery</link><guid isPermaLink="false">https://layer5.io/company/news/layer5-joins-docker-extension-program-bringing-kubernetes-and-kubernetes-management-to-docker-with-meshery</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Mon, 09 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/2b9aa40f67021d16ff21aab9d729f27f/docker-extension-meshery.webp" length="0" type="image/webp"/><content:encoded>import { Link } from &quot;gatsby&quot;;
+]]></description><link>https://layer5.io/company/news/layer5-joins-docker-extension-program-bringing-kubernetes-and-kubernetes-management-to-docker-with-meshery</link><guid isPermaLink="false">https://layer5.io/company/news/layer5-joins-docker-extension-program-bringing-kubernetes-and-kubernetes-management-to-docker-with-meshery</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Mon, 09 May 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/2b9aa40f67021d16ff21aab9d729f27f/docker-extension-meshery.webp" length="0" type="image/webp"/><content:encoded>import { Link } from &quot;gatsby&quot;;
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import Blockquote from &quot;../../../../reusecore/Blockquote&quot;;
 import BlockquoteAlt from &quot;../../../../reusecore/Blockquote/Blockquote-alt-style&quot;;
@@ -1029,7 +1029,7 @@ Competition between service mesh platforms revolves around two core issues. Serv
 
 Regardless of the service Mesh platform selected, it is clear that programmatically managing network services is now much closer to becoming a mainstream part of any DevOps workflow.
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/google-petitions-to-donate-istio-service-mesh-to-cncf</link><guid isPermaLink="false">https://layer5.io/company/news/google-petitions-to-donate-istio-service-mesh-to-cncf</guid><dc:creator><![CDATA[Container Journal]]></dc:creator><pubDate>Sun, 24 Apr 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/c1852a7b1760d443b508f2e9a4bb6a30/istio-to-cncf.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/google-petitions-to-donate-istio-service-mesh-to-cncf</link><guid isPermaLink="false">https://layer5.io/company/news/google-petitions-to-donate-istio-service-mesh-to-cncf</guid><dc:creator><![CDATA[Container Journal]]></dc:creator><pubDate>Sun, 24 Apr 2022 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/c1852a7b1760d443b508f2e9a4bb6a30/istio-to-cncf.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1078,7 +1078,7 @@ Meshery gives you a plane to set up, deploy, and benchmark several configuration
 <br></br>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/the-top-12-cncf-sandbox-projects-of-2021</link><guid isPermaLink="false">https://layer5.io/company/news/the-top-12-cncf-sandbox-projects-of-2021</guid><dc:creator><![CDATA[TechGenix]]></dc:creator><pubDate>Thu, 09 Dec 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/abf5f4cf9b2c509696212a4a40922083/tech-genix-cover.jpg" length="0" type="image/jpeg"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/the-top-12-cncf-sandbox-projects-of-2021</link><guid isPermaLink="false">https://layer5.io/company/news/the-top-12-cncf-sandbox-projects-of-2021</guid><dc:creator><![CDATA[TechGenix]]></dc:creator><pubDate>Thu, 09 Dec 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/abf5f4cf9b2c509696212a4a40922083/tech-genix-cover.jpg" length="0" type="image/jpeg"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import { Link } from &quot;gatsby&quot;;
 
@@ -1115,7 +1115,7 @@ As a forthcoming, ubiquitous layer of cloud native infrastructure, service meshe
 
 We explore how to model your service mesh topology and optimize for your ideal configuration in context of how much you value properties of resiliency, performance, throughput, latency, and so on before you deploy to production. Readers will understand how distributed performance analysis offers unique insights on the behavior of microservices and their efficiency of operation, see examples of how common types of workloads perform under specific service mesh functions, and be empowered with analytical tooling that can be used to make optimized configurations.
 
-</NewsWrapper>]]></description><link>https://layer5.io/company/news/analyzing-service-mesh-performance</link><guid isPermaLink="false">https://layer5.io/company/news/analyzing-service-mesh-performance</guid><dc:creator><![CDATA[IEEE The Bridge]]></dc:creator><pubDate>Tue, 09 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/1b674dee7c478103de63e91d9f37fff0/cover.webp" length="0" type="image/webp"/><content:encoded>
+</NewsWrapper>]]></description><link>https://layer5.io/company/news/analyzing-service-mesh-performance</link><guid isPermaLink="false">https://layer5.io/company/news/analyzing-service-mesh-performance</guid><dc:creator><![CDATA[IEEE The Bridge]]></dc:creator><pubDate>Tue, 09 Nov 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/1b674dee7c478103de63e91d9f37fff0/cover.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1135,7 +1135,7 @@ This is where service mesh comes in. Service mesh helps to apply common observab
 
 The Cloud Native Computing Foundation (CNCF) is home to much of today’s innovative cloud-native technology. The foundation now hosts a few service meshes and related projects. Below, we’ll outline the CNCF service mesh toolset to better understand how engineers can adopt these tools and their benefits.
 
-</NewsWrapper>]]></description><link>https://layer5.io/company/news/6-cncf-service-mesh-tools</link><guid isPermaLink="false">https://layer5.io/company/news/6-cncf-service-mesh-tools</guid><dc:creator><![CDATA[Container Journal]]></dc:creator><pubDate>Thu, 14 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/9a8ad42f3ee07fb4c143a6a162b9484c/mesh-tools.webp" length="0" type="image/webp"/><content:encoded>
+</NewsWrapper>]]></description><link>https://layer5.io/company/news/6-cncf-service-mesh-tools</link><guid isPermaLink="false">https://layer5.io/company/news/6-cncf-service-mesh-tools</guid><dc:creator><![CDATA[Container Journal]]></dc:creator><pubDate>Thu, 14 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/9a8ad42f3ee07fb4c143a6a162b9484c/mesh-tools.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1158,7 +1158,7 @@ In addition, Layer5 has also donated Service Mesh Performance (SMP), a set of to
 Layer5 CEO Lee Calcote said the goal is to make it simpler for IT teams to determine which service mesh to employ based on their specific use case requirements.
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management</guid><dc:creator><![CDATA[Mike Vizard]]></dc:creator><pubDate>Wed, 13 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/0e6f6057cddda267d28c32d2fef01c1e/devops.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management</guid><dc:creator><![CDATA[Mike Vizard]]></dc:creator><pubDate>Wed, 13 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/0e6f6057cddda267d28c32d2fef01c1e/devops.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1223,7 +1223,7 @@ Performance tests are run by Meshery, the open source, multi-mesh manager. Meshe
 Layer5 offers cloud native application management by harnessing the unique position service meshes have in changing how developers write applications, how operators run modern infrastructure and how product owners manage their service offerings. Layer5’s MeshMap delivers the world’s only universal service mesh designer. Layer5’s leadership stewards the Network and Service Mesh groups in the CNCF.
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Tue, 12 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/8e7ee27ed78326adb6f595dc42afafa5/smp-dark-text-side.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Tue, 12 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/8e7ee27ed78326adb6f595dc42afafa5/smp-dark-text-side.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import smpMeshery from &quot;./smp-meshery.webp&quot;;
 
@@ -1350,7 +1350,7 @@ Not just a service mesh manager, Meshery comprises a set of microservices each o
 <p>Layer5 offers cloud native application management by harnessing the unique position service meshes have in changing how developers write applications, how operators run modern infrastructure and how product owners manage their service offerings. Layer5’s MeshMap delivers the world’s only universal service mesh designer. Layer5’s leadership stewards the Network and Service Mesh groups in the CNCF.</p>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Tue, 12 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/229ce8bf95d65aa50bd877579da6123f/meshery-logo-light-text-side.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Tue, 12 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/229ce8bf95d65aa50bd877579da6123f/meshery-logo-light-text-side.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import MeshMap from &quot;./MeshMap.png&quot;;
 import Management from &quot;./configuration-management.png&quot;;
@@ -1456,7 +1456,7 @@ import smp from "./smp-in-meshery.png"
 
 <p>"As communication networks evolve toward cloud native 5G and Edge computing, service mesh forms the basis of underlying infrastructure and application networking", said Sunku Raganath, SMP Maintainer and Solutions Architect at Intel. "Studying service mesh performance across the multitude of deployment scenarios enables us to understand its impact on latency and throughput, in turn, enabling application developers and infrastructure providers to customize and control service mesh behavior within these latency constrained environments". Service Mesh Performance is squarely focused on critical scenarios of performance management across 5G and Edge computing environments. "An efficient service mesh performance for the given combination of resources for a particular KPI will determine whether the current hardware and software scheduling environment is optimal or needs a change", said Mrittika Ganguli, Director and PE, cloud native solutions, NEXG, Intel.</p>
 
-</NewsWrapper>]]></description><link>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</guid><dc:creator><![CDATA[VMBlog]]></dc:creator><pubDate>Mon, 11 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/d23418eba659685e2cc61bde868ee87b/smp-in-meshery.png" length="0" type="image/png"/><content:encoded>
+</NewsWrapper>]]></description><link>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</guid><dc:creator><![CDATA[VMBlog]]></dc:creator><pubDate>Mon, 11 Oct 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/d23418eba659685e2cc61bde868ee87b/smp-in-meshery.png" length="0" type="image/png"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import smp from &quot;./smp-in-meshery.png&quot;
 
@@ -1511,7 +1511,7 @@ Between the three projects, then, users have not just a way to interface with an
 “Part of the belief is that service meshes are an inevitable new layer in your cloud native infrastructure that over time will be a ubiquitous component,” said Calcote. “There’s a lot that can be done in the network, a lot of intelligence, and so Meshery, as a management plane, picks off some of those features.”
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/cncf-projects-bring-service-mesh-interoperability-benchmarks</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-projects-bring-service-mesh-interoperability-benchmarks</guid><dc:creator><![CDATA[The New Stack]]></dc:creator><pubDate>Fri, 23 Jul 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/1b1b219f5ff2ed23523b02bd172f4c07/The-New-Stack-Logo.svg" length="0" type="image/svg+xml"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/cncf-projects-bring-service-mesh-interoperability-benchmarks</link><guid isPermaLink="false">https://layer5.io/company/news/cncf-projects-bring-service-mesh-interoperability-benchmarks</guid><dc:creator><![CDATA[The New Stack]]></dc:creator><pubDate>Fri, 23 Jul 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/1b1b219f5ff2ed23523b02bd172f4c07/The-New-Stack-Logo.svg" length="0" type="image/svg+xml"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1558,7 +1558,7 @@ The key projects operating under the Layer5 community include: `Meshery`, `Learn
 </div>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/5-lesser-known-but-extremely-powerful-kubernetes-service-mesh-tools</link><guid isPermaLink="false">https://layer5.io/company/news/5-lesser-known-but-extremely-powerful-kubernetes-service-mesh-tools</guid><dc:creator><![CDATA[TechGenix]]></dc:creator><pubDate>Thu, 17 Jun 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/43427f194c9f6f161811d46d58e960ba/kubernetes-with-mesh-tools.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/5-lesser-known-but-extremely-powerful-kubernetes-service-mesh-tools</link><guid isPermaLink="false">https://layer5.io/company/news/5-lesser-known-but-extremely-powerful-kubernetes-service-mesh-tools</guid><dc:creator><![CDATA[TechGenix]]></dc:creator><pubDate>Thu, 17 Jun 2021 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/43427f194c9f6f161811d46d58e960ba/kubernetes-with-mesh-tools.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1615,7 +1615,7 @@ As such, operators can make changes to infrastructure independent of developers.
 </div>
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/service-mesh-offers-promising-solution-for-cloud-native-networking</link><guid isPermaLink="false">https://layer5.io/company/news/service-mesh-offers-promising-solution-for-cloud-native-networking</guid><dc:creator><![CDATA[Enterprise Networking Planet]]></dc:creator><pubDate>Thu, 03 Dec 2020 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/a2808ac8b497f7848fa6155fba8bb718/service-mesh.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/service-mesh-offers-promising-solution-for-cloud-native-networking</link><guid isPermaLink="false">https://layer5.io/company/news/service-mesh-offers-promising-solution-for-cloud-native-networking</guid><dc:creator><![CDATA[Enterprise Networking Planet]]></dc:creator><pubDate>Thu, 03 Dec 2020 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/a2808ac8b497f7848fa6155fba8bb718/service-mesh.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 
 &lt;NewsWrapper&gt;
@@ -1680,7 +1680,7 @@ Among the variables in consideration, in addition to the service mesh itself, in
 “What costs more, what’s more efficient and what’s more powerful: These are all open questions that SMP assists in answering in your environment,” Calcote said.
 
 </NewsWrapper>
-]]></description><link>https://layer5.io/company/news/kubeconcloudnativecon</link><guid isPermaLink="false">https://layer5.io/company/news/kubeconcloudnativecon</guid><dc:creator><![CDATA[The New Stack]]></dc:creator><pubDate>Tue, 01 Dec 2020 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/layer5/static/3bbaf49e171ac3012bc61c5567dd6aed/service-mesh-implementations.webp" length="0" type="image/webp"/><content:encoded>
+]]></description><link>https://layer5.io/company/news/kubeconcloudnativecon</link><guid isPermaLink="false">https://layer5.io/company/news/kubeconcloudnativecon</guid><dc:creator><![CDATA[The New Stack]]></dc:creator><pubDate>Tue, 01 Dec 2020 18:30:00 GMT</pubDate><enclosure url="https://layer5.io/static/3bbaf49e171ac3012bc61c5567dd6aed/service-mesh-implementations.webp" length="0" type="image/webp"/><content:encoded>
 import { NewsWrapper } from &quot;../../News.style.js&quot;;
 import serviceMeshAbstractions from &quot;./service-mesh-abstractions.webp&quot;;
 import serviceMeshPerformance from &quot;./service-mesh-performance.webp&quot;;
