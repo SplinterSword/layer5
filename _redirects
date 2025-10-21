@@ -1,20 +1,20 @@
 
 ## Created with gatsby-plugin-netlify
-/layer5/blog/a-standard-interface-for-service-meshes/  /layer5/blog/announcements/a-standard-interface-for-service-meshes  301
 /layer5/blog/2019-07-09-getting-started-with-Meshery-WSL2-k3d/  /layer5/blog/meshery/getting-started-with-meshery-wsl2-and-k3d  301
+/layer5/blog/a-standard-interface-for-service-meshes/  /layer5/blog/announcements/a-standard-interface-for-service-meshes  301
 /layer5/blog/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution/  /layer5/blog/internship-programs/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution  301
 /layer5/blog/landscape/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution/  /layer5/blog/internship-programs/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution  301
 /layer5/blog/landscape/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution  /layer5/blog/internship-programs/hacktoberfest-2019-documenting-my-first-ever-hacktoberfest-contribution  301
 /layer5/blog/hacktoberfest-2019-heating-up/  /layer5/blog/internship-programs/hacktoberfest-2019-heating-up  301
 /layer5/blog/landscape/hacktoberfest-2019-heating-up  /layer5/blog/internship-programs/hacktoberfest-2019-heating-up  301
-/layer5/blog/layer5-landscape-spectrums-revisited/  /layer5/blog/internship-programs/layer5-landscape-spectrums-revisited  301
-/layer5/blog/landscape/layer5-landscape-spectrums-revisited  /layer5/blog/internship-programs/layer5-landscape-spectrums-revisited  301
 /layer5/blog/introducing-comparative-spectrums-to-the-layer5-landscape/  /layer5/blog/internship-programs/introducing-comparative-spectrums-to-the-layer5-landscape  301
 /layer5/blog/introducing-comparative-spectrums-to-the-layer5-landscape  /layer5/blog/internship-programs/introducing-comparative-spectrums-to-the-layer5-landscape  301
+/layer5/blog/layer5-landscape-spectrums-revisited/  /layer5/blog/internship-programs/layer5-landscape-spectrums-revisited  301
+/layer5/blog/landscape/layer5-landscape-spectrums-revisited  /layer5/blog/internship-programs/layer5-landscape-spectrums-revisited  301
 /layer5/blog/deploying-linkerd-with-meshery/  /layer5/blog/meshery/deploying-linkerd-with-meshery  301
+/layer5/blog/getting-started-with-mesheryctl/  /layer5/blog/meshery/getting-started-with-mesheryctl  301
 /layer5/blog/meshery-lands-in-the-cncf-landscape/  /layer5/blog/announcements/meshery-lands-in-the-cncf-landscape  301
 /layer5/blog/google-summer-of-code-2020-service-mesh-performance-with-envoy-nighthawk/  /layer5/blog/programs/google-summer-of-code-2020-service-mesh-performance-with-envoy-nighthawk  301
-/layer5/blog/getting-started-with-mesheryctl/  /layer5/blog/meshery/getting-started-with-mesheryctl  301
 /layer5/blog/community/SMI-conformance-testing-with-meshery/  /layer5/blog/programs/starting-smi-conformance-testing-with-meshery  301
 /layer5/blog/community/blog/smi-conformance-testing-with-meshery/  /layer5/blog/programs/starting-smi-conformance-testing-with-meshery  301
 /layer5/blog/smi-conformance-testing-with-meshery/  /layer5/blog/programs/starting-smi-conformance-testing-with-meshery  301
@@ -35,8 +35,8 @@
 /layer5/blog/envoy/debug-envoy-proxy  /layer5/blog/service-mesh/debug-envoy-proxy  301
 /layer5/blog/community/lfx-experience-layer5-pranav-singh  /layer5/blog/internship-programs/lfx-experience-at-layer5-pranav-singh  301
 /layer5/blog/community/lfx-experience-at-layer5-pranav-singh  /layer5/blog/internship-programs/lfx-experience-at-layer5-pranav-singh  301
-/layer5/news/layer5-joins-the-cncf/  /layer5/company/news/layer5-joins-the-cncf  301
 /layer5/news/layer5-meshery-forrester/  /layer5/company/news/forrester-layer5-and-meshery-help-developers-focus-on-the-business  301
+/layer5/news/layer5-joins-the-cncf/  /layer5/company/news/layer5-joins-the-cncf  301
 /layer5/company/news/cncf-sig-network-intro-and-deep-dive/  /layer5/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive  301
 /layer5/news/meshery-in-top3-service-mesh-developments-in-2020/  /layer5/company/news/meshery-in-top-3-service-mesh-developments-in-2020  301
 /layer5/news/vendors-make-a-splash-in-2019-service-mesh-implementation-rush/  /layer5/company/news/vendors-make-a-splash-in-2019-service-mesh-implementation-rush  301
@@ -54,16 +54,16 @@ https://thenewstack.io/what-the-numbers-say-about-how-service-meshes-are-used-to
 /layer5/company/news/intel-layer-5-announce-meshmark-to-quantify-cloud-native-performance  /layer5/company/news/intel-layer5-announce-meshmark-to-quantify-cloud-native-performance  301
 /layer5/distributed-performance  /layer5/projects/distributed-performance-management  301
 /layer5/projects/distributed-performance  /layer5/projects/distributed-performance-management  301
-/layer5/books/istio-up-and-running  /layer5/learn/service-mesh-books/istio-up-and-running  301
 /layer5/books/service-mesh-patterns  /layer5/learn/service-mesh-books/service-mesh-patterns  301
 /layer5/books/the-enterprise-path-to-service-mesh-architectures/  /layer5/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures  301
+/layer5/books/istio-up-and-running  /layer5/learn/service-mesh-books/istio-up-and-running  301
 /layer5/books/the-enterprise-path-to-service-mesh-architectures-2nd-edition  /layer5/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures-2nd-edition  301
 /layer5/books/the-enterprise-path-to-service-mesh-architectures-2nd-Edition  /layer5/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures-2nd-edition  301
-/layer5/gsoc/2021/  /layer5/programs/gsoc/2021  301
-/layer5/gsoc/2022/  /layer5/programs/gsoc/2022  301
-/layer5/gsoc/2020/  /layer5/programs/gsoc/2020  301
-/layer5/gsoc/2022/  /layer5/programs/gsoc/2023  301
 /layer5/communitybridge/2020/  /layer5/programs/communitybridge/2020  301
+/layer5/gsoc/2020/  /layer5/programs/gsoc/2020  301
+/layer5/gsoc/2022/  /layer5/programs/gsoc/2022  301
+/layer5/gsoc/2022/  /layer5/programs/gsoc/2023  301
+/layer5/gsoc/2021/  /layer5/programs/gsoc/2021  301
 /layer5/gsoc/2023/  /layer5/programs/gsoc/2024  301
 /layer5/gsoc/2025/  /layer5/programs/gsoc/2025  301
 /layer5/gsod/2020/  /layer5/programs/gsod/2020  301
