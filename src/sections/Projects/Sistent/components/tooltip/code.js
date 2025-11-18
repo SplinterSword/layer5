@@ -243,7 +243,7 @@ const TooltipCode = () => {
           </p>
           <div className="showcase">
             <div className="items">
-              <SistentThemeProvider initialMode={isDark ? "dark" : "light"}>
+              {/* <SistentThemeProvider initialMode={isDark ? "dark" : "light"}> */}
                 <Box sx={{ width: 500 }}>
                   <Grid container sx={{ justifyContent: "center" }}>
                     <Grid item>
@@ -334,7 +334,7 @@ const TooltipCode = () => {
                     </Grid>
                   </Grid>
                 </Box>
-              </SistentThemeProvider>
+              {/* </SistentThemeProvider> */}
             </div>
             <CodeBlock name="positioned-example" code={codes[1]} />
           </div>

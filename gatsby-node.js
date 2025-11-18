@@ -708,9 +708,9 @@ exports.onCreateWebpackConfig = ({ actions, stage, getConfig }) => {
   actions.setWebpackConfig({
     resolve: {
       fallback: {
-        path: false,
-        process: false,
-        url: false,
+        path: require.resolve("path-browserify"),
+        process: require.resolve("process"),
+        url: require.resolve("url"),
       },
     },
   });
